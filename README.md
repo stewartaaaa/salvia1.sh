@@ -1,1 +1,0 @@
-# salvia1.sh
